@@ -48,3 +48,5 @@
 04:02 - More Fortnite
 
 08:59 - Go to Sleep
+
+### Fall Grindset will release in September
