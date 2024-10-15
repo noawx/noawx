@@ -1,0 +1,16 @@
+--- roblox audio ids
+----- music
+142376088 - its raining tacos
+1838457617 - clair de lune (ULTRAKILL!? jk jk)
+9045766377 - gymnopedle no. 1
+16190757458 - skibidi fanum tax (brainrot / unfunny warning)
+1837070127 - prima bossa nova
+----- sfx
+144117948 - church bells
+17699455319 - solemn lament ping
+17699458609 - solemn lament pong
+18685115708 - prepare thyself // minos prime
+17564831534 - may your woes be many... and your days few // gabriel ultrakiller
+
+----- ambience
+1846539956 - lullaby from hell
